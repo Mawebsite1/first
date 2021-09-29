@@ -24,8 +24,10 @@
             font-size: 60px;
         }
 
-        .button1 {background-color: #FEDCBA;} /* baby pink */
-        .button2 {background-color: #A7B8C2;} /* baby purple */
+        .button1 {
+            background-color: #FEDCBA;
+        } /* baby pink */
+
     </style>
 
 </head>
@@ -35,7 +37,8 @@
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Fixed navbar</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -44,10 +47,10 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                        <a class="nav-link" href="#">DB</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled">Disabled</a>
+                        <a class="nav-link disabled">🥰</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -60,7 +63,8 @@
 </header>
 
 <center><form>
-        <input type="button" class="button button1" onclick="window.location.href='https://sites.google.com/view/heylo/strona-g%C5%82%C3%B3wna';" value="click here ok thanks" />
+        <input type="button" class="button button1" onclick="window.location.href='https://sites.google.com/view/heylo/strona-g%C5%82%C3%B3wna';
+" value="click here ok thanks" />
     </form></center>
 
 
