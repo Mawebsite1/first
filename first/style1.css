@@ -1,0 +1,51 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top: 150px;
+    cursor: pointer;
+    font-size: 60px;
+}
+
+.button1 {
+    background-color:#85adad;
+} /* baby pink */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #85adad;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to chosen on hover */
+li a:hover {
+    background-color: #ffb3ff;
+}
+
+body{
+    background-image: url('https://fuam.pl/wp-content/uploads/2016/12/ksiegarnie-jasne-t%C5%82o.jpg');
+}
+
+h1{
+    color: lightcoral;
+}
+
