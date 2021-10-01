@@ -36,15 +36,16 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color to chosen on hover */
 li a:hover {
     background-color: #ffb3ff;
 }
 
-body {
-    background-image: url('https://images.hdqwalls.com/download/anime-boy-lost-in-dreams-4k-3h-1920x1080.jpg');
+body{
+    background-image: url('https://fuam.pl/wp-content/uploads/2016/12/ksiegarnie-jasne-t%C5%82o.jpg');
 }
 
 h1{
     color: lightcoral;
 }
+
